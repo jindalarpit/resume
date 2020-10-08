@@ -1,0 +1,33 @@
+# Site Settings
+title: Arpit Jindal
+url: 'https://jindalarpit.github.io/resume/'
+baseurl: '/resume'
+
+# Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
+style: styles-6
+
+#Profile information
+name: Arpit Jindal
+tagline: Project Lead
+pic: profile.jpg
+summary: "."
+
+#sidebar links
+email: jindalarpit@gmail.com
+email-displayname: jindlarpit
+phone: +91 9958198335
+linkedin: jindalarpit
+linkedin-displayname: Arpit Jindal
+github: jindalarpit
+twitter: '@jindalarpit'
+#Update all the sections by editing the files inside _data folder.
+
+# Tracker
+analytics:
+
+# Build settings
+encoding: "utf-8"
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
