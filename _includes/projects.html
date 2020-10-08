@@ -10,7 +10,9 @@
     <div class="item">
         <span class="project-title"><a href="{{ project.link }}">{{ project.title }}</a></span>
         {% if project.tagline %}
-        - <span class="project-tagline">{{ project.tagline }}</span>
+        <div class="project-tagline">
+            <p>{{ project.tagline }}</p>
+        </div>
         {% endif %}
     </div>
     {% endfor %}
