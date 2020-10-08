@@ -2,8 +2,8 @@
   description: "#"
 - project:
   title: Sopra Banking Cloud Platform
-  tagline: "A cloud platform for Spring Boot microservices"
-  description: "A suite of libraries and tools to quickly build and deploy business use cases using the latest technology stack. It includes:
+  tagline: """A cloud platform for Spring Boot microservices
+  A suite of libraries and tools to quickly build and deploy business use cases using the latest technology stack. It includes:
                 		§ API Management
                 		§ Infrastructure provisioning and monitoring,
                 			□ Infrastructure as Code to automate using latest available technologies like terraform, chef, packer etc.
@@ -18,4 +18,4 @@
                 			□ Continuous testing using Junit and Jmeter integration.
                 			□ Continuous delivery using Helm bundle and Nexus.
                 		§ Analytics.
-                        § SBCP Portal to provision, monitor and manage dxp applications"
+                        § SBCP Portal to provision, monitor and manage dxp applications"""
