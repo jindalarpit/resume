@@ -3,7 +3,9 @@
   time: May 2018 - Present
   company: Sopra Banking Software, Noida
   details: |
-    A cloud platform for Spring Boot microservices. SBCP is a suite of libraries and tools to quickly build and deploy business use cases using the latest technology stack. It includes:
+    A cloud platform for Spring Boot microservices.
+    SBCP is a suite of libraries and tools to quickly build and deploy business use cases using the latest technology stack.
+    It includes:
       - API Management
       - Infrastructure provisioning and monitoring,
         - Infrastructure as Code to automate using latest available technologies like terraform, chef, packer etc.

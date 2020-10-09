@@ -12,7 +12,7 @@
         </div>
         {% if experience.details %}
         <div class="details">
-            <p>{{ experience.details }}</p>
+            <p>{{ experience.details | markdownify }}</p>
         </div>
         {% endif %}
     </div>
