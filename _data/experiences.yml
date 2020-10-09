@@ -2,25 +2,6 @@
   role: Project Lead
   time: May 2018 - Present
   company: Sopra Banking Software, Noida
-  details: |
-    A cloud platform for Spring Boot microservices.
-    SBCP is a suite of libraries and tools to quickly build and deploy business use cases using the latest technology stack.
-    It includes:
-      - API Management
-      - Infrastructure provisioning and monitoring,
-        - Infrastructure as Code to automate using latest available technologies like terraform, chef, packer etc.
-        - Cloud agnostic Infrastructure.
-        - Different dashboards for Monitoring like Kibana, Grafana, Prometheus and Zipkin(Jaeger) etc.
-      - Core libraries:
-        - Micro services for security, communication and data persistence.
-        - Cloud-Native and Cloud-Ready micro services.
-      - End to end CICD tools.
-        - Continuous Integration using Gradle, Sonar and dependency check.
-        - Continuous Deployment using Helm, Docker and Kubernetes.
-        - Continuous testing using Junit and Jmeter integration.
-        - Continuous delivery using Helm bundle and Nexus.
-      - Analytics.
-      - API Portal to provision, monitor and manage API documentation.
 
 - experience:
   role: Solution Architect

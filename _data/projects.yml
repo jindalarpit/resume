@@ -1,6 +1,7 @@
 - intro:
 - project:
-  title: Sopra Banking Cloud Platform
+  title: SBCP (Sopra Banking Cloud Platform)
+  company: Sopra Banking Software
   tagline: |
     A cloud platform for Spring Boot microservices. SBCP is a suite of libraries and tools to quickly build and deploy business use cases using the latest technology stack. It includes:
       - API Management
