@@ -4,7 +4,7 @@ url: 'https://jindalarpit.github.io/resume/'
 baseurl: '/resume'
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
-style: styles-6
+style: styles
 
 #Profile information
 name: Arpit Jindal
