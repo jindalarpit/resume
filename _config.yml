@@ -11,13 +11,14 @@ name: Arpit Jindal
 tagline: Project Lead
 pic: profile.jpg
 summary: |
-  - 11 years of rich experience working with Java/J2EE and Spring framework.
-  - Involved in Requirement Management, Solution Design, Risk Management and Implementation phases.
-  - Exposure to microservices architecture using Spring boot and Kotlin.
-  - Worked on cloud infrastructure automation using Infrastructure as code using Terraform, packer, chef etc.
-  - Good handson and working experience setting up **Kubernetes cluster** and deep knowledge managing highly distributed microservices architecture using Istio.
-  - Working experience on different AWS services like EKS, MSK, EC2, ASG, Subnets etc.
-  - Understanding of Event driven architecture.
+  - 11 years of rich experience development of application using Java/J2EE and Spring framework.
+  - Proficiency in Requirement Management, Solution Design, Risk Management, code reviews, and Implementation phases.
+  - Strong communication and interpersonal skills backed by sound analytical, technical and leadership skills.
+  - Exposure to **microservices architecture using Spring boot** and Kotlin.
+  - Experties on cloud infrastructure automation using **Infrastructure as a code** with Terraform, packer, chef etc.
+  - Good handson and working experience setting up **Kubernetes cluster** and **Istio Service Mesh**.
+  - Working experience on different **AWS services** like EKS, MSK, EC2, ASG, Subnets etc.
+  - Good understanding of **Event driven architecture using Kafka**.
   - Execution of Performance and security testing for microservices.
   - Suggested Security improvements and cost optimization for cloud platform.
 
