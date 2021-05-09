@@ -1,6 +1,6 @@
 - skill:
   name: Microservices Architecture
-  level: 60%
+  level: 70%
 - skill:
   name: Java 8
   level: 90%
@@ -9,10 +9,10 @@
   level: 70%
 - skill:
   name: Reactive Programming (Rx, Reactor)
-  level: 50%
+  level: 60%
 - skill:
   name: AWS
-  level: 60%
+  level: 70%
 - skill:
   name: Kubernetes
   level: 80%
